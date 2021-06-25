@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=ISO-8859-1:Brüchmann;Claus;;;
+FN;CHARSET=ISO-8859-1: Claus Brüchmann
+ORG;CHARSET=ISO-8859-1:Eduard Schmidt & Sohn GmbH
+TITLE;CHARSET=ISO-8859-1:Stahl- und Metallbau
+URL;type=WORK;CHARSET=ISO-8859-1:https://www.ed-schmidt-metallbau.de/
+EMAIL;CHARSET=ISO-8859-1;type=WORK;type=PREF:info@ed-schmidt-metallbau.de
+TEL;type=WORK;type=VOICE:+4940665817
+TEL;type=CELL;type=VOICE:+491713520069
+TEL;type=HOME;type=VOICE:
+ADR;CHARSET=ISO-8859-1;type=WORK;type=pref:;;Walddörfer Straße 382;Hamburg;;22047;Deutschland
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=ISO-8859-1:Walddörfer Straße 382=0D=0A=
+22047 Hamburg Deutschland
+END:VCARD
