@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="bg-body text-body font-body">
       <div className="container">
-        <nav className="z-50 fixed w-full p-2 bg-white border-b-2">
+        <nav className="z-50 fixed w-full p-3 bg-white border-b-2">
           <div className="flex flex-wrap items-center justify-between container mx-auto px-4 ">
             <div className="lg:order-2 w-auto lg:w-2/6 lg:text-center">
               <Link
