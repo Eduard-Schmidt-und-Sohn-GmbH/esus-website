@@ -19,7 +19,7 @@ const AboutUs = () => {
               <p className="inline-block leading-relaxed font-bold">
                 Eduard Schmidt &amp; Sohn GmbH
               </p>
-              <p className="leading-relaxed">Stephanstraße 10</p>
+              <p className="leading-relaxed">Stephanstraße 10-12</p>
               <p className="leading-relaxed">22047 Hamburg</p>
             </div>
           </div>

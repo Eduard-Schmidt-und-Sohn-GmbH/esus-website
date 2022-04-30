@@ -9,7 +9,7 @@ EMAIL;CHARSET=ISO-8859-1;type=WORK;type=PREF:info@ed-schmidt-metallbau.de
 TEL;type=WORK;type=VOICE:+4940665817
 TEL;type=CELL;type=VOICE:+491713520069
 TEL;type=HOME;type=VOICE:
-ADR;CHARSET=ISO-8859-1;type=WORK;type=pref:;;Stephanstraße 10;Hamburg;;22047;Deutschland
-LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=ISO-8859-1:Stephanstraße 10=0D=0A=
+ADR;CHARSET=ISO-8859-1;type=WORK;type=pref:;;Stephanstraße 10-12;Hamburg;;22047;Deutschland
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE;CHARSET=ISO-8859-1:Stephanstraße 10-12=0D=0A=
 22047 Hamburg Deutschland
 END:VCARD
