@@ -140,7 +140,7 @@ const Datenschutz = () => (
       <p>
         Eduard Schmidt &amp; Sohn GmbH
         <br />
-        Stephanstraße 10
+        Stephanstraße 10-12
         <br />
         22047 Hamburg
       </p>
